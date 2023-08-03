@@ -17,19 +17,6 @@ Example:
     [custom_certhis collection_index="' + collectionIndex + '" column="' + column + '" column_mobile="' + columnMobile + '" nft_page="' + customUrl + '" filter_minted="' + filterMinted + '" google_font="' + googleFont + '" color="' + color + '" color_2="' + color2 + '" filter_search="' + filterSearch + '"]
 
 
-You can customize the shortcode attributes to suit your needs:
-
-- `select`: Choose the NFT selection mode (e.g., "radio" or "checkbox").
-- `header`: Show or hide the header (e.g., "on" or "off").
-- `collection_index`: Specify the Certhis collection index to display.
-- `google_font`: Select a Google Font for the display.
-- `color`: Customize the primary color of the NFT display.
-- `color_2`: Customize the secondary color of the NFT display.
-- `background`: Customize the background color of the NFT display.
-- `title_color`: Customize the title color of the NFT display.
-- `button_text_color`: Customize the button text color of the NFT display.
-- `text_color`: Customize the text color of the NFT display.
-
 
 ## Frequently Asked Questions
 
