@@ -1,0 +1,66 @@
+
+.wrap.custom-certhis-form {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    }
+    .wp-core-ui select {
+    
+    max-width: unset;
+    
+    background-size: 16px 16px;
+    
+    cursor: pointer;
+    
+    vertical-align: middle;
+    
+    width: 100%;
+    
+    margin-bottom: 20px;
+    }
+    .wrap.custom-certhis-form h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    }
+    
+    .wrap.custom-certhis-form label {
+    display: block;
+    margin-bottom: 5px;
+    }
+    
+    .wrap.custom-certhis-form input[type="text"],
+    .wrap.custom-certhis-form input[type="checkbox"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    }
+    
+    .wrap.custom-certhis-form input[type="checkbox"] {
+    width: auto;
+    margin-left: 5px;
+    }
+    
+    .wrap.custom-certhis-form pre {
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 4px;
+    white-space: pre-wrap;
+    }
+    
+    .wrap.custom-certhis-form input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #0073aa;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    }
+    
+    .wrap.custom-certhis-form input[type="submit"]:hover {
+    background-color: #005689;
+    }
+
