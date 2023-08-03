@@ -207,7 +207,7 @@ function custom_certhis_render_settings_page()
             $('#certhis_google_font').select2({
                 placeholder: 'Select a Google Font',
                 ajax: {
-                    url: 'https://www.googleapis.com/webfonts/v1/webfonts?key=AIzaSyASLIQvLOURAB3Mrg6K4QoiL3CRY5M0kQc',
+                    url: 'https://www.googleapis.com/webfonts/v1/webfonts?key=YOURKEY',
                     dataType: 'json',
                     delay: 250,
                     data: function(params) {
