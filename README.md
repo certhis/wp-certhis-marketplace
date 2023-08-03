@@ -1,3 +1,4 @@
+﻿
 # Custom Certhis Embedded Plugin
 
 The Custom Certhis Embedded Plugin allows you to easily integrate Certhis Embedded into your WordPress site using a shortcode. You can display your Certhis NFT collection with various customization options, such as colors, fonts, and filtering options.
@@ -11,10 +12,10 @@ The Custom Certhis Embedded Plugin allows you to easily integrate Certhis Embedd
 
 To use the Certhis Embedded shortcode, add the following code to your WordPress pages or posts:
 
-[custom_certhis_embedded select="radio" header="off" collection_index="1156" google_font="Open Sans" color="#fafafa" color_2="#000000" background="#ffffff" title_color="#000000" button_text_color="#ffffff" text_color="#000000"]
+Example: 
 
-markdown
-Copy code
+    [custom_certhis_embedded select="radio" header="off" collection_index="1156" google_font="Open Sans" color="#fafafa" color_2="#000000" background="#ffffff" title_color="#000000" button_text_color="#ffffff" text_color="#000000"]
+
 
 You can customize the shortcode attributes to suit your needs:
 
@@ -31,10 +32,10 @@ You can customize the shortcode attributes to suit your needs:
 
 If you select "Custom URL" as the NFT Page, you can provide a custom URL for each NFT using the `nft_data` attribute:
 
+Example: 
+
 [custom_certhis_embedded select="radio" header="off" collection_index="1156" google_font="Open Sans" color="#fafafa" color_2="#000000" background="#ffffff" title_color="#000000" button_text_color="#ffffff" text_color="#000000" nft_page="Custom URL" nft_data="https://example.com/custom-nft-url"]
 
-markdown
-Copy code
 
 ## Frequently Asked Questions
 
