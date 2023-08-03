@@ -14,7 +14,7 @@ To use the Certhis Embedded shortcode, add the following code to your WordPress 
 
 Example: 
 
-    [custom_certhis_embedded select="radio" header="off" collection_index="1156" google_font="Open Sans" color="#fafafa" color_2="#000000" background="#ffffff" nft_data="popup" title_color="#000000" button_text_color="#ffffff" text_color="#000000"]
+    [custom_certhis collection_index="' + collectionIndex + '" column="' + column + '" column_mobile="' + columnMobile + '" nft_page="' + customUrl + '" filter_minted="' + filterMinted + '" google_font="' + googleFont + '" color="' + color + '" color_2="' + color2 + '" filter_search="' + filterSearch + '"]
 
 
 You can customize the shortcode attributes to suit your needs:
