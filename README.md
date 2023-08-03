@@ -34,7 +34,7 @@ If you select "Custom URL" as the NFT Page, you can provide a custom URL for eac
 
 Example: 
 
-[custom_certhis_embedded select="radio" header="off" collection_index="1156" google_font="Open Sans" color="#fafafa" color_2="#000000" background="#ffffff" title_color="#000000" button_text_color="#ffffff" text_color="#000000" nft_page="Custom URL" nft_data="https://example.com/custom-nft-url"]
+    [custom_certhis_embedded select="radio" header="off" collection_index="1156" google_font="Open Sans" color="#fafafa" color_2="#000000" background="#ffffff" title_color="#000000" button_text_color="#ffffff" text_color="#000000" nft_page="Custom URL" nft_data="https://example.com/custom-nft-url"]
 
 
 ## Frequently Asked Questions
